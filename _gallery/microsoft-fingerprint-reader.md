@@ -2,13 +2,13 @@
 author: PanagiotisLo
 title: microsoft-fingerprint-reader
 image_url: /images/microsoft-fingerprint-reader.jpg
-caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti το 1990 είναι από τα
-πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου. Αν και δε συνηθίζεται να θεωρείται "δίκτυο", το σύστημα αυτό αποτελεί πρόδρομο πολλών παρόμοιων μεταγενέστερων συστημάτων εντοπισμού θέσης.'
-license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
-license_text: Courtesy of Deutsches Museum
+caption: 'Η συσκευή fingerprint reader της Microsoft δημιουργήθηκε για οικειακή χρήση αλλα και για χρήση απο μικρές επιχυρίσεις. Η συσκευή προσφέρει μεγαλύτερη ασφάλεια απο ένα κοινό κωδικό εισόδου καθώς επιτρέπει την είσοδο μόνο σε εξουσιοδοτημένους χρήστες μέσω της ανάγνωσης του δακτυλικού αποτυπόματος.'
+license_url: 'https://commons.wikimedia.org/wiki/File:Microsoft_Fingerprint_Reader.jpg'
+license_text: Courtesy of Wikimedia
 categories:
-  - archetypes
+  - input device
 tags:
-  - Xerox
+  - Microsoft
+  - fingerprint reader
 ---
 
