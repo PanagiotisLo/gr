@@ -6,7 +6,7 @@ caption: 'Το Android Studio είναι ένα ολοκληρωμένο προ�
 license_url: 'https://commons.wikimedia.org/wiki/File:Gitaaddd.png'
 license_text: Courtesy of Wikimedia
 categories:
-  - archetypes
+  - tools
 tags:
-  - Xerox
+  - Android Studio
 ---
