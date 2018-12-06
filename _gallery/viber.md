@@ -2,9 +2,8 @@
 author: PanagiotisLo
 title: viber
 image_url: /images/viber.jpg
-caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti το 1990 είναι από τα
-πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου. Αν και δε συνηθίζεται να θεωρείται "δίκτυο", το σύστημα αυτό αποτελεί πρόδρομο πολλών παρόμοιων μεταγενέστερων συστημάτων εντοπισμού θέσης.'
-license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
+caption: 'Το Viber είναι μια εφαρμογή για smartphones και tablets που επιτρέπει την τηλεφωνική επικοινωνία μεταξύ των χρηστών καθώς επίσης και την ανταλαγή φωτογραφιών, γραπτών μηνυμάτων και γενικότερα πολυμεσικού περιεχομένου όπως τα βίντεο.'
+license_url: 'https://www.flickr.com/photos/hostingcoupons/6781954104'
 license_text: Courtesy of Deutsches Museum
 categories:
   - archetypes
