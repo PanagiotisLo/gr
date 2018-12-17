@@ -7,6 +7,8 @@ license_url: 'https://commons.wikimedia.org/wiki/File:Trackball-Kensington-Exper
 license_text: Courtesy of Wikimedia
 categories:
   - archetypes
+  - input device
 tags:
-  - Xerox
+  - Trackball
+  - Kensington
 ---
