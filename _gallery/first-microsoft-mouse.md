@@ -7,6 +7,7 @@ license_url: 'https://commons.wikimedia.org/wiki/File:First_MS-Mouse.jpg'
 license_text: Courtesy of Wikimedia
 categories:
   - archetypes
+  - input device
 tags:
   - Microsoft
   - Mouse
