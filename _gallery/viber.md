@@ -6,7 +6,7 @@ caption: 'Το Viber είναι μια εφαρμογή για smartphones κα�
 license_url: 'https://www.flickr.com/photos/hostingcoupons/6781954104'
 license_text: Courtesy of Deutsches Museum
 categories:
-  - archetypes
+  - models
 tags:
-  - Xerox
+  - viber
 ---
